@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14503cec-8c5b-4bbb-aa66-e0fc54e1a9df" name="Changes" comment="第一次提交" />
+    <list default="true" id="14503cec-8c5b-4bbb-aa66-e0fc54e1a9df" name="Changes" comment="第一次提交gggg">
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/numpy_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/iou_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/nms_iou_study.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/numpy_study_summarize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/test12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numpy_study/xxxxx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +42,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="komorebi" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +59,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Object-project/Object-detect"
+    "last_opened_file_path": "D:/Object-project/Object-detect",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -87,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740402496624</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1740402888643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740402888643</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +133,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="komorebi" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -114,7 +146,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交dd" />
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="第一次提交gggg" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交gggg" />
   </component>
 </project>
