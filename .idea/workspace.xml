@@ -4,29 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14503cec-8c5b-4bbb-aa66-e0fc54e1a9df" name="Changes" comment="第一次提交gggg">
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/numpy_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/ex7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/iou_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/nms_iou_study.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/numpy_study_summarize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/test12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy_study/xxxxx.py" afterDir="false" />
+    <list default="true" id="14503cec-8c5b-4bbb-aa66-e0fc54e1a9df" name="Changes" comment="第三次提交">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +28,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2tUIMjoAdmP6F8R9bzy4WZ6VrO0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Object-project/Object-detect",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Object-project/Object-detect&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

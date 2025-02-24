@@ -2,6 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ResNet50-Unet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TensorRT-Alpha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/YOLOv8-MobileNetv4-ultralytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clip-vit-large-patch14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mmpose" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/numpy_study" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stable-diffusion-webui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ultralytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unet/Pytorch-UNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yolov10" vcs="Git" />
   </component>
 </project>
